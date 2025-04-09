@@ -343,6 +343,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à forker le projet, cré
 
 ## 📞 Contact
 
-KOCEILA DJABALLAH – [@twitter_handle](https://twitter.com/twitter_handle) – koceila.djaballah@gmail.com
+KOCEILA DJABALLAH –– koceila.djaballah@gmail.com
 
 Lien du projet: [https://github.com/ITNKOC/medical-platform](https://github.com/ITNKOC/medical-platform)
